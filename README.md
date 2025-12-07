@@ -58,8 +58,4 @@ Run the App
 streamlit run app.py
 
 
-📸 Screenshots
-
-(Add a screenshot of your running app here later!)
-
-Built with ❤️ using Python.
+Built using Python.
